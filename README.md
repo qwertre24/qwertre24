@@ -3,7 +3,7 @@
 <!--
 **qwertre24/qwertre24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:努力学习C语言中
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
