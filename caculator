@@ -1,0 +1,11 @@
+print("欢迎使用简易计算器！输入'exit'退出程序。")
+ True:
+    :
+        ("请输入计算表达式:")
+        a=().()
+         a==:
+            
+        result=(a)
+        (f"输出的结果是{result}")
+    except Exception as e:
+        print(f"输入有误，请重新输入！错误信息：{e}")
