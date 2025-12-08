@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a college school student,
-I will become an excellent fuii-stack deeveiopment engineer.
+I will become an excellent full-stack deeveiopment engineer.
 <!--
 **qwertre24/qwertre24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
