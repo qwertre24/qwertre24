@@ -1,17 +1,55 @@
-## Hi there 👋
-I am a college school student,
-I will become an excellent full-stack deeveiopment engineer.
-<!--
-**qwertre24/qwertre24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<h1>qwertre24 · Still compiling.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><b>把一个个「为什么」，写成可以运行的答案。</b></p>
+
+<p>
+  <code>Go</code> · <code>Gin</code> · <code>GORM</code> · <code>MySQL</code> · <code>Python</code>
+</p>
+
+</div>
+
+---
+
+### `main()` — 关于我
+
+我在项目里学 Go，喜欢顺着一次请求，把后端的事情弄明白：
+
+```text
+一个请求
+  └─ 路由找到谁？
+      └─ 参数交给谁检查？
+          └─ 数据什么时候写进去？
+              └─ 出了问题，又该怎样回答？
+```
+
+遇到不懂的地方，我会把问题拆小，自己改一处，再检查一处。
+一个接口能跑起来很开心；能解释清楚每一步为什么这样写，会更开心。
+
+### `workbench/` — 我的工作台
+
+**StudentHub · 用一个学生管理 API 练后端基本功**
+
+围绕 Gin、GORM 和 MySQL，练习把请求、校验、数据操作和响应串起来。
+从 CRUD 往下挖，会遇到不少值得认真想一遍的小问题：
+
+- 数据库连接应该在什么时候初始化？
+- 「记录不存在」和「数据库查询失败」，该怎样分别处理？
+- 更新时，怎样区分「没传这个字段」和「传了一个空字符串」？
+
+这些问题，也在一点点改变我组织代码的方式。
+
+**Python · 另一张草稿纸**
+
+用来做课程实验、验证想法，也探索能解决具体问题的小工具。
+有意思的需求，通常比一张待学技术清单更能让我动手。
+
+### `learning.diff` — 我想积累的变化
+
+```diff
++ 遇到报错，先找到它从哪一步开始。
++ 写完功能，再想一遍输入和失败的情况。
++ 看懂一个例子之后，试着自己改出下一步。
++ 留下过程，让下次的自己有据可查。
+```
